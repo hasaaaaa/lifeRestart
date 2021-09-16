@@ -45,7 +45,7 @@ class App{
             <button id="themeToggleBtn">黑</button>
             <div id="title">
                 人生重开模拟器<br>
-                <div style="font-size:1.5rem; font-weight:normal;">这垃圾人生一秒也不想呆了</div>
+                <div style="font-size:1.5rem; font-weight:normal;">这垃圾人生冯涛选择重开</div>
             </div>
             <button id="restart" class="mainbtn"><span class="iconfont">&#xe6a7;</span>立即重开</button>
         </div>
